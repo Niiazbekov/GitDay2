@@ -7,4 +7,6 @@ public class sales {
     //....
 
     //.....
+
+    // more sales
 }
